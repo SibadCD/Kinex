@@ -11,9 +11,9 @@ cada vez que se registra, modifica o elimina un elemento — igual que los
 punteros de una lista doblemente enlazada se reescriben en cada operación.
 
 ## Integrantes — Grupo 6
-- Davis (Bryan) [Apellido]
-- Andrés [Apellido]
-- Nicolás [Apellido]
+- Davis Cuenca
+- Andrés Sarzosa
+- Nicolás Izurieta
 
 ## Descripción
 
