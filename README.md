@@ -48,7 +48,6 @@ KINEX/
 ├── interfaz.h / .c      # Colores ANSI, pausa y limpieza de pantalla
 ├── Makefile             # Compilación modular
 ├── elementos.txt        # Archivo de datos (se crea/actualiza en ejecución)
-└── pruebas/             # Casos de prueba y script de grabación de sesiones
 ```
 
 ## Compilación y ejecución
