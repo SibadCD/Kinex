@@ -1,0 +1,33 @@
+1
+CI-001
+Servidor Web Principal
+Servidor
+2.4
+Data Center Quito
+Activo
+
+1
+CI;002
+CI-002
+Sistema ERP
+Aplicacion
+5.1
+Nube AWS
+Activo
+
+1
+-CI003
+CI-003
+Base de Datos
+Base de Datos
+-1.0
+1.0
+Data Center Quito
+Activo
+
+5
+
+6
+Servidor
+
+0

@@ -1,0 +1,5 @@
+CI-001;Servidor Web Principal;Servidor;2.4;Data Center Quito;Activo
+CI-002;Sistema ERP Financiero;Aplicacion;5.1;Nube AWS;Activo
+CI-003;Base de Datos Clientes;Base de Datos;12.0;Data Center Quito;Activo
+CI-004;Switch Core Piso 3;Red;1.0;Edificio Central;Activo
+CI-005;Servicio de Correo Corporativo;Servicio;3.2;Nube Office365;Activo

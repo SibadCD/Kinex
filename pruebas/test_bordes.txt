@@ -1,0 +1,15 @@
+abc
+1
+CI-010
+
+Router Principal
+Red
+1.0
+Piso 1
+Invalido
+Activo
+3
+CI-999
+4
+CI-999
+0
